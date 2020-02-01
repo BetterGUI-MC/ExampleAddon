@@ -1,0 +1,16 @@
+package me.hsgamer.bettergui.exampleaddon;
+
+import me.hsgamer.bettergui.object.addon.Addon;
+
+public final class ExampleAddon extends Addon {
+
+  @Override
+  public void onEnable() {
+    // Enable logic
+  }
+
+  @Override
+  public void onDisable() {
+    // Disable logic
+  }
+}
