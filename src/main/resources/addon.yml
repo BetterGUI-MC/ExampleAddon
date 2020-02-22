@@ -6,3 +6,4 @@ description: ${project.description}
 # authors:
 # depend:
 # soft-depend:
+# plugin-depend:
