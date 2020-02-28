@@ -13,6 +13,11 @@ public final class ExampleAddon extends Addon {
   public void onEnable() {
     // Enable logic
   }
+  
+  @Override
+  public void onPostEnable() {
+    // Post Enable logic
+  }
 
   @Override
   public void onDisable() {
