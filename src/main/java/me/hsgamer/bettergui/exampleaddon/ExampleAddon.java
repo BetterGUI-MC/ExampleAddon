@@ -37,4 +37,13 @@ public final class ExampleAddon extends Addon {
   public void onDisable() {
     // Disable logic
   }
+
+
+  /**
+   * Called when reloading
+   */
+  @Override
+  public void onReload() {
+    // Reload logic
+  }
 }
