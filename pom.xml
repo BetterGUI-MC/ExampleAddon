@@ -84,7 +84,7 @@
     <dependency>
       <groupId>me.HSGamer</groupId>
       <artifactId>BetterGUI</artifactId>
-      <version>3.0</version>
+      <version>3.1</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
